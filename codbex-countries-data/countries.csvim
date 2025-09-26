@@ -3,7 +3,7 @@
     {
       "table": "CODBEX_COUNTRY",
       "schema": "PUBLIC",
-      "file": "/codbex-countries/countries.csv",
+      "file": "/codbex-countries-data/countries.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -14,7 +14,7 @@
     {
       "table": "CODBEX_COUNTRY_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-countries/countries-lang.csv",
+      "file": "/codbex-countries-data/countries-lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
