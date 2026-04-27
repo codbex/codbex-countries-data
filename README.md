@@ -6,7 +6,7 @@
 
 ## 📦 Data 
 
-* [Cpuntry](https://github.com/codbex/codbex-countries-data/tree/main/codbex-countries-data/country)
+* [Country](https://github.com/codbex/codbex-countries-data/tree/main/codbex-countries-data/country)
 
 ## 🐳 Local Development with Docker
 
